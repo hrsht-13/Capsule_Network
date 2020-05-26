@@ -29,7 +29,7 @@ This code has been compiled on `Colab Notebook` and thus has **Callbacks files**
 
 **Step 1. Clone this repository to local.**
 ```
-https://github.com/HB5101/CapsNet_Project.git
+https://github.com/hrsht-13/Capsule_Network.git
 ```
 **Step 2.
 Install Keras==2.2.4 with TensorFlow==1.15.0 backend.**
