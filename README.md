@@ -66,8 +66,8 @@ The testing data is same as the validation data. It will be easy to test on new 
 CapsNet classification test error on MNIST.
 Losses and accuracies on Test set only for routing iteration=3
 
-![](cap-master/training.png)
-![](cap-master/loss.png)
+![](Readme Graphs/training.png)
+![](Readme Graphs/loss.png)
 
 The data for the above graph is save in CSV_data folder.
 
@@ -83,8 +83,8 @@ About `448s / epoch` on Google Colab GPU for routing iteration=3.
 
 Digits at left-side are real images from MNIST and digits at right-side are corresponding reconstructed images.
 
-![](cap-master/original.png)
-![](cap-master/reconstructed.png)
+![](Readme Graphs/original.png)
+![](Readme Graphs/reconstructed.png)
 
 #### Conclusions from the experiment
 
