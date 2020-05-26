@@ -66,7 +66,7 @@ The testing data is same as the validation data. It will be easy to test on new 
 CapsNet classification test error on MNIST.
 Losses and accuracies on Test set only for routing iteration=3
 
-![](Readme Graphs/training.png)
+![](Readme_Graphs/training.png)
 ![](Readme Graphs/loss.png)
 
 The data for the above graph is save in CSV_data folder.
